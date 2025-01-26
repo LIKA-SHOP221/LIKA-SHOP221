@@ -1,4 +1,4 @@
-index.html
+index.html (page d'accueil)
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -32,7 +32,7 @@ index.html
 </body>
 </html>
 
-catalogue.html
+catalogue.html (page catalogue des produits)
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -78,7 +78,7 @@ catalogue.html
 </body>
 </html>
 
-contact.html
+contact.html (page contact)
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -122,7 +122,7 @@ contact.html
 </body>
 </html>
 
-styles.css
+styles.css (le fichier CSS)
 
 body {
   font-family: Arial, sans-serif;
